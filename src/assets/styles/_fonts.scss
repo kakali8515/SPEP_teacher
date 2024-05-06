@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+// font-family: 'Inter', sans-serif;
+
+@font-face {
+    font-family: 'AppleSDGothicNeoRegular';
+    src: url('@/assets/fonts/AppleSDGothicNeoR.eot');
+    src: url('@/assets/fonts/AppleSDGothicNeoR.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/fonts/AppleSDGothicNeoR.woff2') format('woff2'),
+        url('@/assets/fonts/AppleSDGothicNeoR.woff') format('woff'),
+        url('@/assets/fonts/AppleSDGothicNeoR.ttf') format('truetype'),
+        url('@/assets/fonts/AppleSDGothicNeoR.svg#AppleSDGothicNeoR') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apple SD Gothic Neo Bold';
+    src: url('@/assets/fonts/AppleSDGothicNeoBold.eot');
+    src: url('@/assets/fonts/AppleSDGothicNeoBold.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/fonts/AppleSDGothicNeoBold.woff2') format('woff2'),
+        url('@/assets/fonts/AppleSDGothicNeoBold.woff') format('woff'),
+        url('@/assets/fonts/AppleSDGothicNeoBold.ttf') format('truetype'),
+        url('@/assets/fonts/AppleSDGothicNeoBold.svg#AppleSDGothicNeoBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'SUIT';
+    src: url('@/assets/fonts/SUIT-Bold.woff2') format('woff2'),
+        url('@/assets/fonts/SUIT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SUIT';
+    src: url('@/assets/fonts/SUIT-ExtraLight.woff2') format('woff2'),
+        url('@/assets/fonts/SUIT-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SUIT';
+    src: url('@/assets/fonts/SUIT-ExtraBold.woff2') format('woff2'),
+        url('@/assets/fonts/SUIT-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SUIT';
+    src: url('@/assets/fonts/SUIT-Heavy.woff2') format('woff2'),
+        url('@/assets/fonts/SUIT-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SUIT';
+    src: url('@/assets/fonts/SUIT-Regular.woff2') format('woff2'),
+        url('@/assets/fonts/SUIT-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SUIT';
+    src: url('@/assets/fonts/SUIT-Light.woff2') format('woff2'),
+        url('@/assets/fonts/SUIT-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SUIT';
+    src: url('@/assets/fonts/SUIT-Medium.woff2') format('woff2'),
+        url('@/assets/fonts/SUIT-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SUIT';
+    src: url('@/assets/fonts/SUIT-Thin.woff2') format('woff2'),
+        url('@/assets/fonts/SUIT-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SUIT';
+    src: url('@/assets/fonts/SUIT-SemiBold.woff2') format('woff2'),
+        url('@/assets/fonts/SUIT-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+@font-face {
+    font-family: 'SUIT Variable';
+    src: url('@/assets/fonts/SUITVariable-Regular.woff2') format('woff2'),
+        url('@/assets/fonts/SUITVariable-Regular.woff') format('woff');
+    font-style: normal;
+    font-display: swap;
+}
+

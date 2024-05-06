@@ -1,0 +1,45 @@
+{
+  "name": "spep-teacher-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --mode dev",
+    "serve": "vite --mode qa",
+    "production": "vite --mode production",
+    "build-dev": "vite build --mode dev",
+    "build-production": "vite build --mode production",
+    "build-qa": "vite build --mode qa"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "@vuepic/vue-datepicker": "^6.0.1",
+    "agora-rtc-sdk-ng": "^4.18.2",
+    "agora-rtm-sdk": "^1.5.1",
+    "apexcharts": "^3.45.2",
+    "axios": "^1.4.0",
+    "bootstrap": "^4.6.2",
+    "firebase": "^10.7.1",
+    "hls.js": "^1.4.14",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "pinia": "^2.1.6",
+    "socket.io-client": "^4.7.4",
+    "swiper": "^10.1.0",
+    "v-pagination-3": "^0.1.7",
+    "validator": "^13.11.0",
+    "vite-plugin-ejs": "^1.6.4",
+    "vue": "^3.3.4",
+    "vue-loading-overlay": "^6.0.3",
+    "vue-router": "^4.2.0",
+    "vue-signature-pad": "^3.0.2",
+    "vue-sweetalert2": "^5.0.5",
+    "vue3-apexcharts": "^1.4.4",
+    "yup": "^1.3.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.62.1",
+    "vite": "^4.3.5"
+  }
+}
